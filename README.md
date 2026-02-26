@@ -211,8 +211,8 @@ You are free to modify and customize it for your own business needs.
 ---
 
 # 👨‍💻 Author
-Tirth Jaswant Thesiya
-Developed for **Shivay Textiles**
-Built with Python & Tkinter.
+* Tirth Jaswant Thesiya
+* Developed for **Shivay Textiles**
+* Built with Python & Tkinter.
 
 ---
