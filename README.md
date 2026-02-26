@@ -1,17 +1,9 @@
 # Textile-billing-system
 A lightweight, professional desktop billing application built using Python (Tkinter) for generating GST-compliant invoices with automatic PDF export.
-Perfect 👍
-Here is a **complete, clean, professional `README.md`** for your GitHub repository.
-
-You can copy everything below and paste it into a file named:
-
-```
-README.md
-```
 
 ---
 
-# 🧾 Shivay Billing System
+# 🧾 Textile Billing System
 
 A professional desktop billing application built using **Python (Tkinter)** for generating GST-compliant invoices with automatic PDF export.
 
